@@ -3,6 +3,7 @@
 //
 #include "Enemy.h"
 #include <iostream>
+#include <climits>
 
 
 using namespace std;
